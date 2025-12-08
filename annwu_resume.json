@@ -1,0 +1,300 @@
+{
+  "basics": {
+    "name": "Anna Wu, PhD",
+    "label": "Research Leader",
+    "picture": "https://example.com/photo.jpg",
+    "email": "annawupsu@gmail.com",
+    "phone": "8143212144",
+    "url": "https://www.linkedin.com/in/annawupsu/",
+    "summary": "Accomplished strategist with over a decade of experience as both a hands-on contributor and an organizational leader. Proven ability to build, scale, and manage high-performing research and data teams. Successfully translated complex business goals into clear, actionable roadmaps, securing cross-functional alignment to drive significant growth. Track record of shaping consumer and enterprise product strategies that have impacted millions of users and generated billions in revenue.",
+    "location": {
+      "address": "",
+      "postalCode": "98052",
+      "city": "REDMOND",
+      "countryCode": "United States",
+      "region": "WA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Google",
+      "position": "Head of GCP Quantitative Research",
+      "url": "http://google.com",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "summary": "Built and scaled Google's largest quantitative research team from the ground up to 13 geographically dispersed members, covering major GCP product portfolios with ~$30B ARR.",
+      "highlights": [
+        "Directed 300+ analytics projects, informing ~100 roadmaps, OKRs, and PRDs across IaaS (Compute, Storage, Networking), PaaS (GKE, Cloud Run, App Engine) and key AI products like Gemini for Cloud. At Cloud Next ’25 alone, contributed to 13 product/feature launches with $billion revenue.",
+        "Shaped Google Cloud's 5-year geo-expansion strategy and 10-year fungibility plan, delivering research insights on data residency and capacity planning that directly impacted 27 regions and 41 locations.",
+        "Founded an AI-enabled research center of excellence, shipping generative AI tools to 12K internal users impacting 20+ Google teams, saving hundreds of hours monthly by automating data analysis.",
+        "Developed and scaled a holistic AI evaluation framework that directly improved Gemini Cloud Assist response quality by 2.5x and was adopted as Google-wide measurement playbook.",
+        "Orchestrated a multi-year initiative to smooth experience transition among GUI/CLI/API, securing cross-product engineering investment and accelerating strategic feature launches led to +8% global LoadBalancer adoption.",
+        "Served key governance roles on Quantitative Research Steering Committee, AI Advisory Board for UXLC, and Google Research Scholarship Program Committee, shaping Google-wide research strategy."
+      ],
+      "name": "Google",
+      "location": "Kirkland, WA"
+    },
+    {
+      "company": "Microsoft",
+      "position": "Senior Data Science Manager",
+      "url": "https://microsoft.com",
+      "startDate": "2016-01",
+      "endDate": "2020-09",
+      "summary": "Led a team of data scientists working on Microsoft's $6B Cloud+AI Business portfolio, translating foundational research into long-term roadmaps for Cloud+AI products.",
+      "highlights": [
+        "Transitioned product strategy for PowerApps, Power BI, and Dynamics from intuition-based to data-driven by establishing and leading over 10 quantitative analysis programs.",
+        "Architected Power BI's long-term data strategy, generating millions in annual revenue by shifting the focus from reactive analytics to predictive, ML-driven customer segments that shaped the broader Power Platform roadmap."
+      ],
+      "name": "Microsoft",
+      "location": "Redmond, WA"
+    },
+    {
+      "name": "Microsoft",
+      "position": "User Experience Researcher",
+      "startDate": "2012-09",
+      "endDate": "2016-01",
+      "location": "",
+      "url": "https://microsoft.com",
+      "summary": "Mixed-method UX researcher on Windows, Phone and Xbox, conducting field study, usability testing, surveys, and log analysis. ",
+      "description": "",
+      "highlights": [
+        "Translated foundational research and theories into product designs for Windows 8/8.1/10, impacting millions of users",
+        "Drove Windows Phone East Asian product strategy through international competitive research",
+        "Established a usability engine team (of 10) for a large-scale (50+ sessions weekly) benchmark initiative, accelerated product iterations. "
+      ]
+    },
+    {
+      "name": "Palo Alto Research Center",
+      "position": "Visiting Research Scientist",
+      "startDate": "2010-06",
+      "endDate": "2012-06",
+      "location": "Palo Alto, CA",
+      "url": "http://parc.com",
+      "summary": "Designed and implemented Sense Places Out of Text (SPOT), a geo-disambiguation algorithm and annotation platform that achieved 90% precision and 74% recall in large-scale evaluations involving thousands of travel blogs and hundreds of annotators. US patented.",
+      "description": "",
+      "highlights": []
+    },
+    {
+      "name": "IBM Research Center",
+      "position": "Research Intern",
+      "startDate": "2009-06",
+      "endDate": "2009-09",
+      "location": "Cambridge, MA",
+      "url": "https://research.ibm.com/",
+      "summary": "Developed a statistical model to predict relationship closeness among ~60K IBM employees; published @CHI 2010 (Best Paper nomination).\n",
+      "description": "",
+      "highlights": []
+    },
+    {
+      "name": "IBM Research Center",
+      "position": "Research Intern",
+      "startDate": "2010-06",
+      "endDate": "2010-09",
+      "location": "San Jose, CA",
+      "url": "https://research.ibm.com/",
+      "summary": "Conducted user studies (interviews, online survey) for a business mobile app, guiding product development.",
+      "description": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NWCS",
+      "position": "Board member",
+      "url": "https://www.nwchinese.org/",
+      "startDate": "2022-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Penn State University",
+      "area": "Information Science and Technology (Stats Minor)",
+      "studyType": "PhD",
+      "startDate": "2007-09-01",
+      "endDate": "2012-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Tsinghua University",
+      "area": "Industrial Engineering",
+      "studyType": "ME",
+      "startDate": "2005-09-01",
+      "endDate": "2007-09-01",
+      "score": ""
+    },
+    {
+      "institution": "Tsinghua University",
+      "area": "Mechanical Engineering (Math Minor)",
+      "studyType": "BE",
+      "startDate": "2001-09-01",
+      "endDate": "2005-09-01",
+      "score": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top UX AI initiative",
+      "date": "2025",
+      "awarder": "Google UX Leadership Circle",
+      "summary": "Reward for developing best practice on AI measurement, published in top-rated company-wide playbook, outperforming ~100 competing AI-initiatives across Google." 
+     }, 
+     {
+      "title": "Google Cloud Fixit Winner",
+      "date": "2023",
+      "awarder": "Brad Calder (Google Cloud VP)",
+      "summary": "Reward for creating the Compute Critical User Journey tracker, a toolkit to drive long-term Cloud data infra improvements on customer experience." 
+     },
+    {
+      "title": "Microsoft Hackathon Winner",
+      "date": "2019",
+      "awarder": "Microsoft Garage",
+      "summary": "Winner of the Global Hackathon for developing a functional prototype that integrated 'AI for Education' capabilities directly into Microsoft Teams workflows for school settings."
+    }
+  ],
+  "publications": [
+    {
+      "name": "20+ Peer-reviewed Conference/Journal Papers",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "https://scholar.google.com/citations?user=oCt7m_oAAAAJ&hl=en",
+      "summary": "https://scholar.google.com/citations?user=oCt7m_oAAAAJ&hl=en"      
+    }
+  ],
+ "skills": [
+    {
+      "name": "Strategic & Business Acumen",
+      "level": "",
+      "keywords": [
+        "ROI Analysis",
+        "Market & Customer Focus",
+        "KPI Definition"
+      ]
+    },
+    {
+      "name": "Team Building & Talent Development",
+      "level": "",
+      "keywords": [
+        "Hiring & Recruiting",
+        "Performance Management",
+        "Mentorship & Coaching"
+      ]
+    },
+    {
+      "name": "Stakeholder Management",
+      "level": "",
+      "keywords": [
+        "Executive Presentations",
+        "Negotiation",
+        "Building Buy-in"
+      ]
+    },
+    {
+      "name": "Data Analytics",
+      "level": "",
+      "keywords": [
+        "Trend Analysis",
+        "Root Cause Analysis",
+        "Exploratory Data Analysis (EDA)"
+      ]
+    },
+    {
+      "name": "A/B Testing",
+      "level": "",
+      "keywords": [
+        "Experimentation Design",
+        "Statistical Significance",
+        "Conversion Rate Optimization (CRO)"
+      ]
+    },
+    {
+      "name": "Survey Design & Analysis",
+      "level": "",
+      "keywords": [
+        "Questionnaire Design",
+        "Sampling Strategy",
+        "Net Promoter Score (NPS)"
+      ]
+    },
+    {
+      "name": "Usability Testing",
+      "level": "",
+      "keywords": [
+        "User Interviews",
+        "Heuristic Evaluation",
+        "Task Analysis"
+      ]
+    },
+    {
+      "name": "Statistical Modeling",
+      "level": "",
+      "keywords": [
+        "Predictive Modeling",
+        "Bayesian Methods",
+        "Forecasting"
+      ]
+    },
+    {
+      "name": "Machine Learning (ML)",
+      "level": "",
+      "keywords": [
+        "Model Training & Evaluation",
+        "Supervised/Unsupervised Learning",
+        "Deep Learning",
+        "TensorFlow/PyTorch"
+      ]
+    },
+    {
+      "name": "Natural Language Processing (NLP)",
+      "level": "",
+      "keywords": [
+        "Sentiment Analysis",
+        "Named Entity Recognition (NER)",
+        "Topic Modeling"
+      ]
+    },
+    {
+      "name": "Large Language Models (LLMs)",
+      "level": "",
+      "keywords": [
+        "Generative AI",
+        "Retrieval-Augmented Generation (RAG)",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": [
+        "Jupyter Notebooks",
+        "Data Manipulation",
+        "Scripting & Automation"
+      ]
+    },
+    {
+      "name": "All flavors of SQL",
+      "level": "",
+      "keywords": [
+        "Query Optimization",
+        "Data Warehousing",
+        "Cosmos DB/BigQuery"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": [
+        "Dashboard Development",
+        "Data Storytelling",
+        "Tableau/Power BI/Looker"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
